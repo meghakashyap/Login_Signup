@@ -1,0 +1,14 @@
+{
+    "user": [
+        {
+            "Username": "Megha",
+            "Password": "Muskan@12",
+            "Profile": {
+                "description": "Hy",
+                "d_o_b": "29 march 2001",
+                "Gender": "Female",
+                "Hobbies": "Singing"
+            }
+        }
+    ]
+}
